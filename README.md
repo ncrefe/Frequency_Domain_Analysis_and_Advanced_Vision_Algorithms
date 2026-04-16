@@ -1,4 +1,4 @@
-# 📷 Sheet 02 — Frequency Domain Analysis & Advanced Vision Algorithms
+# 📷 Frequency Domain Analysis & Advanced Vision Algorithms
 
 This project focuses on advanced computer vision techniques involving **Fourier analysis, spatial vs frequency filtering, stereo matching, and edge detection**. It emphasizes both theoretical understanding and practical implementation of core algorithms from scratch.
 
